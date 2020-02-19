@@ -1,3 +1,2 @@
 seconde file
 this is second
-third one is activated
